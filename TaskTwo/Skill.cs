@@ -1,6 +1,6 @@
 ﻿namespace TaskTwo
 {
-    class Skill
+    public class Skill
     {
         /// <summary>
         /// Название умения.

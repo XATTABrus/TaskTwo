@@ -1,6 +1,6 @@
 ﻿namespace TaskTwo
 {
-    enum ActionSkill
+    public enum ActionSkill
     {
         HealthPoitns, HealthPointsRegenerationTime, ManaRegenerationTime, AmountOfMana, Speed
     }
